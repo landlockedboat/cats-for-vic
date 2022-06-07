@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b558b2ec15ddd7e47bffe6323609c37d, type: 3}
+  m_Name: Cat Colors 7
+  m_EditorClassIdentifier: 
+  Base: {r: 0.62352943, g: 0.49411765, b: 0.4117647, a: 1}
+  Belly: {r: 0.8235294, g: 0.73333335, b: 0.627451, a: 1}
+  Fur: {r: 0.9490196, g: 0.9372549, b: 0.78039217, a: 1}
+  Stripes: {r: 0.96862745, g: 1, b: 0.8784314, a: 1}
+  Nose: {r: 1, g: 0.93333334, b: 0.8862745, a: 1}
+  InnearEar: {r: 0, g: 0, b: 0, a: 1}
+  OuterEar: {r: 0, g: 0, b: 0, a: 1}
